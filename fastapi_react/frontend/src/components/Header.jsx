@@ -9,7 +9,7 @@ const Header = () => {
       justify="space-between"
       wrap="wrap"
       padding="0.5rem"
-      bg="gray.400"
+      bg="blue.400"
     >
       <Flex align="center" mr={5}>
         <Heading as="h1" size="sm">Todos</Heading>
